@@ -9,3 +9,6 @@ vendor/
 
 # Codeswing vs
 codeswing.json
+
+#mypy
+.mypy_cache

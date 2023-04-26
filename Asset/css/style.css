@@ -37,3 +37,12 @@ li {
     color: var(--btnFontColor);
     background-color: var(--btnBg);
 }
+.Lameur {
+    position: absolute;
+    inset-block-start: 45px;
+    inset-inline-start:125px;
+    block-size: 33px;
+    inline-size: 143px;
+    border-radius: 0%;
+    border: none;
+}
