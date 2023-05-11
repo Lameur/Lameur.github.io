@@ -2,7 +2,7 @@
   
 ***
 
-[website]: lameur.git.io
+[website]: lameur.github.io
 
 [My Website][website] hub page !
 
