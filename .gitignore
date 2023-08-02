@@ -8,7 +8,7 @@ _site/
 vendor/
 
 # Codeswing vs
-codeswing.json
+# codeswing.json
 
 #mypy
 .mypy_cache
