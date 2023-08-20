@@ -12,3 +12,7 @@ vendor/
 
 #mypy
 .mypy_cache
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
