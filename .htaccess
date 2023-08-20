@@ -1,0 +1,25 @@
+#Enable RewriteEngine
+RewriteEngine on
+Options +MultiViews
+
+#file request
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#clear .php ext
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+#clear .html ext
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+#clear .gif ext
+RewriteRule ^([^\.]+)$ $1.gif [NC,L]
+
+#clear .js ext
+RewriteRule ^([^\.]+)$ $1.js [NC,L]
+
+#clear .css ext
+RewriteRule ^([^\.]+)$ $1.css [NC,L]
+
+#clear .pdf ext
+RewriteRule ^([^\.]+)$ $1.pdf [NC,L]

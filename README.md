@@ -15,3 +15,9 @@
 [workflow]: https://github.com/Lameur/Lameur.github.io/actions/workflows/pages/pages-build-deployment/badge.svg
 [workflow2]: https://github.com/Lameur/Lameur.github.io/actions/workflows/static.yml
 [workflow3]: https://github.com/Lameur/Lameur.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg
+***
+
+### permalink : 
+
+[vscode.dev](https://vscode.dev/github/Lameur/Lameur.github.io/blob/Develop)  
+[github](https://github.com/Lameur/Lameur.github.io/blob/70a6ffe2e9def89e45dae41bebe0939a6b404f92)
